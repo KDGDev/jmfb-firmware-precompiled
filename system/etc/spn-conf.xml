@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spnOverrides>
+  <!-- Russia -->
+  <spnOverride numeric="25001" spn="МТС" />
+  <spnOverride numeric="25002" spn="МегаФон" />
+  <spnOverride numeric="25005" spn="Енисей Телеком" />
+  <spnOverride numeric="25006" spn="SkyLink" />
+  <spnOverride numeric="25020" spn="Теле2" />
+  <spnOverride numeric="25028" spn="Билайн" />
+  <spnOverride numeric="25099" spn="Билайн" />
+</spnOverrides>
